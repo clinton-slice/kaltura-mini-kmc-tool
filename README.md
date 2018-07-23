@@ -4,6 +4,6 @@ Kaltura Management Console tool created with PHP. Using Kaltura API, this tool c
 
 Operations such as:
 
-Deleting one or multiple entries
-Modifying Users permissions for one or multiple entries
-Thumbnail change for one or multiple entries
+* Deleting one or multiple entries
+* Modifying Users permissions for one or multiple entries
+* Thumbnail change for one or multiple entries
