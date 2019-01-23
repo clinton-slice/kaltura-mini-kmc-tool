@@ -1,5 +1,4 @@
 <?php
-$allowed_hosts = array("134.117.95.25","134.117.99.45", "134.117.122.56", "134.117.99.7", "134.117.197.63", "134.117.117.30");
 
 if (!in_array($_SERVER['REMOTE_ADDR'], $allowed_hosts)) {
     die("no access.");
